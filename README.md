@@ -10,7 +10,7 @@ I'm (**Milan**), a 1º SMX student based in Spain, i love learning all about com
 
 **Some stuff i built:**
 
-- [Portfolio](url) - My personal portfolio, that i'm trying to make a big portfolio.
+- [Portfolio](url) - My personal portfolio.
 
 
 
