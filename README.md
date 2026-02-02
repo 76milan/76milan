@@ -4,7 +4,7 @@ I'm (**Milan**), a 1º SMX student based in Spain, i love learning all about com
 
 **These days i'm focused learning on:** 
 
-- HTML, CSS
+- HTML | CSS
 
 ---
 
