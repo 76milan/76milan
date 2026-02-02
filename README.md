@@ -1,14 +1,17 @@
 ### Hi there! 👋 ###
 
 es/ES - en/GB
+
 I'm (**Milan**), a 1º SMX student based in Spain, i love learning all about computing, but above all the development and programing are things i love to do, i dont get bored at all doing and learning it
 
 **These days i'm focused learning on:** 
+
 - HTML, CSS
 
 ---
 
 **Some stuff i built:**
+
 - [Portfolio](url) - My personal portfolio, that i'm trying to make a big portfolio.
 
 <!--
